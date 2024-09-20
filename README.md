@@ -10,7 +10,7 @@
   <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranav904&theme=darkhub&margin-w=15&no-frame=true" alt="pranav904" /></a> 
 </p>
-<br>
+
 <h3 align="center">Languages and Tools:</h3>
 <table align="center">
 <tr>
