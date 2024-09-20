@@ -1,18 +1,16 @@
 <h1 align="center">👋 Hi, I'm Pranav</h1>
-
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=pranav904&label=Profile%20views&color=0e75b6&style=flat" alt="pranav904" /> 
-</p>
-  <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranav904" alt="pranav904" /></a> 
-</p>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/pranav-n-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-n-v" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pranavnv14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranavnv14" height="30" width="40" /></a>
 </p>
-
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=pranav904&label=Profile%20views&color=0e75b6&style=flat" alt="pranav904" /> 
+</p>
+  <p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranav904&theme=darkhub&margin-w=15&no-frame=true" alt="pranav904" /></a> 
+</p>
+<br>
 <h3 align="center">Languages and Tools:</h3>
 <table align="center">
 <tr>
@@ -39,10 +37,11 @@
 </tr>
 </table>
 
+<h3 align="center" >Stats: </h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav904&show_icons=true&locale=en&layout=compact" alt="pranav904" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav904&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="pranav904" />
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranav904&show_icons=true&locale=en" alt="pranav904" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranav904&show_icons=true&locale=en&theme=dark#gh-dark-mode-only" alt="pranav904" />
 </p>
